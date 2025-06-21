@@ -26,7 +26,7 @@
                 <button onclick="chiudiDettaglioForn()" style="position:absolute; top:10px; right:10px; background:none; border:none; font-size:1.2em; cursor:pointer;">&times;</button>
             </div>
         </div>
-        <!------------------------------------>
+        <!---------------------------------->
 
         <!-- COROPO TOTALE FORNITORE IN LISTA 2 es-->
         <div id="DACOM" class="box-expl" onclick="showDettaglioForn('DACOM')">
